@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 150px;
+}
+
+.banner {
+  border: 1px solid;
+}
+
+.title {
+  height: 100px;
+  width: 100%;
+  background-color: #1eff29;
+  color: black;
+  text-align: center;
+  line-height: 100px;
+}
+
+u {
+  text-decoration-style: dotted;
+}
+
+.slogan {
+  text-align: center;
+}
